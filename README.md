@@ -51,4 +51,4 @@ Chrome/Vivaldi等のChromium系ブラウザで動作確認。
 
 本拡張機能では[JSZip](https://github.com/Stuk/jszip/)を使用しています。
 JSZipはMITライセンス、またはGPLv3ライセンスのデュアルライセンスで提供されています。  
-本拡張機能ではMITライセンスの条件に基づき利用しており、ライセンス全文は /licenses/jszip-LICENSE.txt に同梱しています。
+本拡張機能ではMITライセンスの条件に基づき利用しており、ライセンス全文は /licenses/jszip-LICENSE.markdown に同梱しています。
